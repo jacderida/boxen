@@ -53,6 +53,7 @@ github "stdlib",     "4.1.0", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",       "1.0.0"
 github "xquartz",    "1.1.0"
 github "chrome",     "1.1.2"
+github "iterm2",     "1.0.4", :repo => "boxen/puppet-iterm2"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
